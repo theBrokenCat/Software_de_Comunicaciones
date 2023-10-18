@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "C:\\Users\\Arturo\\.m2\\repository\\es\\upm\\dte\\softcom\\CalculadoraGUI\\calculadora-gui\\calculadora-gui-3.0.0.jar"
+    ]
+}
